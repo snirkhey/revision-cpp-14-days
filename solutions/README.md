@@ -1,5 +1,7 @@
 # Solutions (spoilers)
 
+Read the questions first: [../exercises/all-exercises.md](../exercises/all-exercises.md).
+
 Reference implementations for exercise sections. Try each day with `RUN_EXERCISES 1` before opening these.
 
 | Day | File |

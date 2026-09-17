@@ -49,6 +49,8 @@ cmake --build build
 
 Full day-by-day notes and goals: [docs/curriculum.md](docs/curriculum.md).
 
+**All exercise questions:** [exercises/all-exercises.md](exercises/all-exercises.md) (or [exercises/](exercises/) per day).
+
 Exercise reference implementations (spoilers): [solutions/](solutions/).
 
 ## echo-server

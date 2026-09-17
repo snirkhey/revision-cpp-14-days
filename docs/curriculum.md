@@ -1,5 +1,7 @@
 # 2-week curriculum (detail)
 
+Exercise prompts (collected): [../exercises/all-exercises.md](../exercises/all-exercises.md).
+
 ## Week 1 — Ownership on the stack and with `unique_ptr`
 
 ### Day 1 — References & `const`
