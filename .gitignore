@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+*.o
+*.out
+a.out
+day*
+!days/
+compile_commands.json
+.cache/
