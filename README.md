@@ -51,6 +51,10 @@ Full day-by-day notes and goals: [docs/curriculum.md](docs/curriculum.md).
 
 Exercise reference implementations (spoilers): [solutions/](solutions/).
 
+## echo-server
+
+Separate practice project: [echo-server/](echo-server/) (POSIX + Asio echo servers). Related to the async / `shared_from_this` topics in the later days.
+
 ## How to study
 
 1. Read the file header and `demo_*` / `main` flow.

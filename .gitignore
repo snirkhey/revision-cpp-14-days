@@ -3,7 +3,8 @@ cmake-build-*/
 *.o
 *.out
 a.out
-day*
-!days/
 compile_commands.json
 .cache/
+
+# Built executables at repo root (from Makefile), not the days/ source folder
+/day[0-9][0-9]_*
